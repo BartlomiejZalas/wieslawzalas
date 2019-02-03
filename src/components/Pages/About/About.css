@@ -1,0 +1,16 @@
+.cover {
+    background-size: cover;
+    background-position: top center;
+    min-height: 400px;
+}
+
+.row-cover {
+    background: #40495a;
+    color: #FFF;
+    min-height: 700px;
+}
+
+.cover-text {
+    font-size: 1rem;
+    line-height: 1.4;
+}

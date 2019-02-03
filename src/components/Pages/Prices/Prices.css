@@ -1,0 +1,10 @@
+section.prices {
+    padding: 50px 0;
+    background: linear-gradient(#FFF, rgba(0, 0, 0, .025))
+}
+
+section.prices table thead {
+    font-weight: bold;
+    background: #40495a;
+    color: #FFF;
+}
