@@ -16,7 +16,7 @@ const Offer = () => {
                             Jeżeli zachowania twoje lub najbliższych są powodem kłótni i nieporozumień – zadzwoń, przyjdź!<br />
                             Jeżeli odczuwasz w sobie chęć zmiany, nie wiesz dokładnie, co jest tego powodem – zadzwoń przyjdź!<br />
                             Jeżeli twoja kariera stoi w miejscu i nie jesteś z niej zadowolony – zadzwoń, przyjdź!<br />
-                            Jeżeli nie doświadczasz żadnego z tych stanów, a chcesz się spotkać  - zapraszam<br />
+                            Jeżeli nie doświadczasz żadnego z tych stanów, a chcesz się spotkać  - zapraszam.<br />
                         </p>
                     </div>
                 </div>
