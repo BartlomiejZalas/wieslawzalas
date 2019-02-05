@@ -12,7 +12,7 @@ export default function About() {
                         &nbsp;
                     </div>
                     <div className="col-sm-6 cover-text p-4">
-                        <h2 className="py-3 section-title">O Mnie</h2>
+                        <h2 className="py-3 section-title dark">O Mnie</h2>
                         <p className="py-1">
                             Nazywam się Wiesław Zalas mam 54 lata. Trudno napisać coś
                             dobrego o sobie i nie wyjść na "bufona". Posłużę się więc

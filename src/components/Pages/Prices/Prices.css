@@ -3,8 +3,14 @@ section.prices {
     background: linear-gradient(#FFF, rgba(0, 0, 0, .025))
 }
 
-section.prices table thead {
-    font-weight: bold;
-    background: #40495a;
-    color: #FFF;
+.price {
+    color: var(--main);
+    margin: auto;
+    text-align: right;
 }
+
+section.prices .table .row {
+    padding: 20px 0;
+    display: flex;
+    margin: auto;
+} 

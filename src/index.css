@@ -46,9 +46,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .section-title {
   padding: 20px 0;
-  font-size: 40px;
+  font-size: 34px;
   line-height: 48px;
   font-weight: 400;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #151515;
+}
+
+.section-title.dark {
+  color: #FFF;
 }
 
 p.lead {

@@ -7,7 +7,7 @@
 }
 
 .box i {
-    font-size: 40px;
+    font-size: 60px;
     color: var(--main);
     padding: 0 0 10px 0;
 }
@@ -30,4 +30,10 @@
     height: 200px;
     display: table-cell;
     vertical-align: middle;
+}
+
+.box .details {
+    text-align: justify;
+    font-size: 14px;
+    padding: 20px 0;
 }
