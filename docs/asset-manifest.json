@@ -1,14 +1,14 @@
 {
-  "main.css": "/wieslawzalas/static/css/main.15a85a40.chunk.css",
-  "main.js": "/wieslawzalas/static/js/main.df64e6ba.chunk.js",
-  "main.js.map": "/wieslawzalas/static/js/main.df64e6ba.chunk.js.map",
-  "static/js/1.bdd4fb93.chunk.js": "/wieslawzalas/static/js/1.bdd4fb93.chunk.js",
-  "static/js/1.bdd4fb93.chunk.js.map": "/wieslawzalas/static/js/1.bdd4fb93.chunk.js.map",
-  "runtime~main.js": "/wieslawzalas/static/js/runtime~main.d5460464.js",
-  "runtime~main.js.map": "/wieslawzalas/static/js/runtime~main.d5460464.js.map",
-  "static/media/cover.jpg": "/wieslawzalas/static/media/cover.4e5bf40a.jpg",
-  "static/css/main.15a85a40.chunk.css.map": "/wieslawzalas/static/css/main.15a85a40.chunk.css.map",
-  "index.html": "/wieslawzalas/index.html",
-  "precache-manifest.d6420797ae1f237742d187aaa99e925b.js": "/wieslawzalas/precache-manifest.d6420797ae1f237742d187aaa99e925b.js",
-  "service-worker.js": "/wieslawzalas/service-worker.js"
+  "main.css": "/static/css/main.15a85a40.chunk.css",
+  "main.js": "/static/js/main.11fbecab.chunk.js",
+  "main.js.map": "/static/js/main.11fbecab.chunk.js.map",
+  "static/js/1.bdd4fb93.chunk.js": "/static/js/1.bdd4fb93.chunk.js",
+  "static/js/1.bdd4fb93.chunk.js.map": "/static/js/1.bdd4fb93.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/cover.jpg": "/static/media/cover.4e5bf40a.jpg",
+  "static/css/main.15a85a40.chunk.css.map": "/static/css/main.15a85a40.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.7189e7a8be8b2b785c152b34e7c98077.js": "/precache-manifest.7189e7a8be8b2b785c152b34e7c98077.js",
+  "service-worker.js": "/service-worker.js"
 }

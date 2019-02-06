@@ -11,7 +11,7 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-md-6">
+                    {/* <div className="col-md-6">
                         <h3>Wyślij wiadomość</h3>
                         <div className="contact-form">
                             <div className="form-group">
@@ -25,15 +25,15 @@ const Contact = () => {
                             </div>
                             <button className="btn btn-warning">Wyślij</button>
                         </div>
-                    </div>
-                    <div className="col-md-6 contact-data">
+                    </div> */}
+                    <div className="col-md-12 contact-data">
                         <h3>Skontaktuj się ze mną</h3>
                         <h4>Telefon</h4>
                         <i className="fas fa-phone"></i> 511 008 791
                         <hr />
                         <h4>Email</h4>
                         <i className="far fa-envelope-open"></i>&nbsp;
-                        <a href="mailto:kontakt@wieslawzalas.pl">kontakt@wieslawzalas.pl</a>
+                        <a href="mailto:wzalas196@gmail.com">wzalas196@gmail.com</a>
                         <hr />
                         <h4>WWW</h4>
                         <i className="fas fa-globe-europe"></i>&nbsp;
