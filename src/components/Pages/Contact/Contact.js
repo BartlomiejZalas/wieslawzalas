@@ -3,7 +3,7 @@ import './Contact.css';
 
 const Contact = () => {
     return (
-        <section name="kontakt" className="contact">
+        <section name="kontakt" className="contact dark">
             <div className="container">
                 <div className="row">
                     <div className="col">
@@ -32,10 +32,12 @@ const Contact = () => {
                         <i className="fas fa-phone"></i> 511 008 791
                         <hr />
                         <h4>Email</h4>
-                        <i className="far fa-envelope-open"></i> wzalas@interia.pl
+                        <i className="far fa-envelope-open"></i>&nbsp;
+                        <a href="mailto:kontakt@wieslawzalas.pl">kontakt@wieslawzalas.pl</a>
                         <hr />
-                        <h4>Adres</h4>
-                        <i className="fas fa-map-marker-alt"></i> ul. Ulica 42/6, 58-300 Wałbrzych
+                        <h4>WWW</h4>
+                        <i className="fas fa-globe-europe"></i>&nbsp;
+                        <a href="http://wieslawzalas.pl">www.wieslawzalas.pl</a>
                     </div>
                 </div>
             </div>

@@ -63,3 +63,12 @@ p.lead {
   line-height: 28px;
   font-weight: 400;
 }
+
+section.dark a {
+  color: var(--suplementary);
+  font-weight: 400;
+}
+
+section.dark a:hover {
+  color: var(--suplementary-hover);
+}

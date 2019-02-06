@@ -140,7 +140,7 @@ const Offer = () => {
                     <div className="col-lg-4">
                         <Box 
                             title="Dla firm i instytucji" 
-                            description="Stacjonarna oraz kompleksowe wyjazdy szkoleniowe, połączone z wypoczynkiem, 
+                            description="Oferujemy Państwu konsulting, warsztaty stacjonarne oraz kompleksowe wyjazdy szkoleniowe, połączone z wypoczynkiem, 
                             badania i analizy w oparciu o obserwacje i wywiady, tworzenie modeli komunikacji wewnętrznej i zewnętrznej"
                             icon="fa-user-tie"
                         >
@@ -180,7 +180,11 @@ const Offer = () => {
                     <div className="col-lg-4">
                         <Box 
                             title="Szkoła dla rodziców" 
-                            description="Warsztaty-treningi grupowe dla rodziców. Grupy 10 – 16 osób. Czas trwania 10 tygodni.  Trening obejmuje 10 spotkań po trzy godziny. Możliwość rozszerzenia o kolejne tematy w ramach kolejnych spotkań, stacjonarnych, warsztatów wyjazdowych, wycieczek z suplementem superwizyjnym."
+                            description="
+                            Warsztaty-treningi grupowe dla rodziców. Grupy 10 – 16 osób. Czas trwania 10 tygodni.  
+                            Trening obejmuje 10 spotkań po trzy godziny. Możliwość rozszerzenia o kolejne tematy w 
+                            ramach kolejnych spotkań, stacjonarnych, warsztatów wyjazdowych, wycieczek z suplementem 
+                            superwizyjnym."
                             icon="fa-child"
                         >
                             <p>Jesteś rodzicem, to coś cudownego!  Czy ktoś kiedyś uczył Cię na czym to polega? Jak znaleźć swoje miejsce w rodzinie? Jak skutecznie porozumiewać się z dzieckiem? Jak budować wspólne przedsięwzięcia, w których obie strony wygrywają? Na te i wiele innych pytań poszukamy odpowiedzi w ramach Szkoły dla rodziców. Praca i zabawa w ramach tych zajęć powinna być w ramach naszej edukacji szkolnej, jednak nie ma dotychczas lekcji dotyczącej budowania  związków, rodziny i wychowywania dzieci. Jeżeli chcesz podjąć ten radosny wysiłek zapraszam.</p>
@@ -211,7 +215,9 @@ const Offer = () => {
                     <div className="col-lg-4">
                         <Box 
                             title="Dla szkół i przedszkoli" 
-                            description="Stacjonarne lub wyjazdowe (wycieczki, pobyty weekendowe, zielone szkoły)"
+                            description="Nasza oferta opiera się na prowadzeniu aktywnych warsztatów, treningów 
+                            i superwizji. Pracujemy z gronem pedagogicznym, rodzicami i dziećmi. Profilaktyka, 
+                            nowoczesne sposoby nauczania i wszystkie inne potrzeby szkoleniowe, które ustalimy."
                             icon="fa-school"
                         >
                             <p>"Nasza szkoła jest cudowna", "nasza szkoła jest najlepsza", "nasza szkoła to gniazdo os", "nie lubię naszej szkoły". Takie i inne stwierdzenia powodują,  że bardzo często stajemy się bierną organizacją. Po co coś zmieniać, jeśli wszystko doskonale funkcjonuje, albo wręcz przeciwnie - po co zmieniać, jeśli nic w tej szkole się nie udaje. Wszystko to rozumiem, jednak jestem głęboko przekonany, że wspólna praca oparta na zrozumieniu, bez oceniania i narzekania, pozwoli na lepsze zrozumienie stosunków  pomiędzy nauczycielem, rodzicem, dzieckiem i innymi podmiotami życia szkolnego. Zapraszam do współpracy.</p>
