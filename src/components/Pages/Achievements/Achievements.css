@@ -1,0 +1,27 @@
+section.achievements {
+    padding: 50px 0;
+    background: linear-gradient(#FFF, rgba(0, 0, 0, .04));
+}
+
+section.achievements a {
+    color: var(--main);
+    font-weight: bold;
+}
+
+section.achievements h3 {
+    letter-spacing: .1em;
+    font-size: 20px;
+    padding: 30px 0;
+    font-weight: 300;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(255, 255, 255, .5);
+}
+
+section.achievements .certificates img {
+    width: 100%;
+}
+
+section.achievements .certificates-description {
+    display: flex;
+    align-items: center;
+}

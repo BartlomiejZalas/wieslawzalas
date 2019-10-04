@@ -6,6 +6,7 @@ import About from '../Pages/About/About';
 import Prices from '../Pages/Prices/Prices';
 import Contact from '../Pages/Contact/Contact';
 import Offer from '../Pages/Offer/Offer';
+import Achievements from '../Pages/Achievements/Achievements';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
       <div className="Page">
         <NavBar />
         <About />
+        <Achievements />
         <Offer />
         <Prices/>
         <Contact/>
