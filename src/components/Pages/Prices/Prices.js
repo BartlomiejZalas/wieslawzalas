@@ -9,6 +9,7 @@ const Prices = () => {
                 <div className="row">
                     <div className="col">
                         <h2 className="section-title text-center">Cennik</h2>
+                        <div className="header-line"/>
                     </div>
                 </div>
                 <div className="row table">
@@ -48,7 +49,7 @@ const Prices = () => {
                             <div className="col-4 price">40,00 zł</div>
                         </div>
                         <div className="row">
-                            <div className="col-8">Szkoła dla rodziców (za 10 warsztatów płatne w dwóch transzach):</div>
+                            <div className="col-8">Szkoła dla rodziców (10 warsztatów płatne w dwóch transzach):</div>
                             <div className="col-4 price">300,00 zł</div>
                         </div>
                         <div className="row">
@@ -56,7 +57,7 @@ const Prices = () => {
                             <div className="col-4 price">600,00 zł/osoba</div>
                         </div>
                         <div className="row">
-                            <div className="col-8">10 dniowe pobyty terapeutyczno-wypoczynkowych:</div>
+                            <div className="col-8">10-dniowe pobyty terapeutyczno-wypoczynkowe:</div>
                             <div className="col-4 price">3500,00 zł/osoba</div>
                         </div>
                         <div className="row">

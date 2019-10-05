@@ -9,14 +9,16 @@ const Achievements = () => {
                 <div className="row">
                     <div className="col">
                         <h2 className="section-title text-center">Osiągnięcia</h2>
-                        <h3>Artykuły</h3>
+                        <div className="header-line"/>
+
+                        <h3 className="section-subtitle">Artykuły</h3>
                         <ul>
                             <li>
                                 <strong>Superwizja szkolna w zmieniającej się rzeczywistości społecznej</strong> - artykuł opublikowany w czasopiśmie <em>Prace Naukowe Wyższej Szkoły Zarządzania i Przedsiębiorczości z siedzibą w Wałbrzychu</em> (rok 2018, tom 46 (2), strony: 49-66). <br />
                                 <a href="http://bazekon.icm.edu.pl/bazekon/element/bwmeta1.element.ekon-element-000171549401" target="blank">Link do artykułu</a>
                             </li>
                         </ul>
-                        <h3>Certyfikaty</h3>
+                        <h3 className="section-subtitle">Certyfikaty</h3>
                         <div className="row">
                             <div className="col col-lg-3 certificates">
                                 <a href={require('./cert1.png')} target="blank">

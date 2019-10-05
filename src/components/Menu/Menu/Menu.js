@@ -10,6 +10,10 @@ const Menu = () => (
             duration={duration} offset={offset} className="nav-link">
             O Mnie
         </Link>
+        <Link activeclass="active" to="achievements" spy={true} smooth={true} tabIndex={0}
+            duration={duration} offset={offset} className="nav-link">
+            Osiągnięcia
+        </Link>
         <Link activeclass="active" to="oferta" spy={true} smooth={true} tabIndex={0}
             duration={duration} offset={offset} className="nav-link">
             Oferta

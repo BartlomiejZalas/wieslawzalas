@@ -9,15 +9,20 @@ const Offer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col">
-                        <h2 className="section-title text-center">Oferta</h2>
+                        <h2 className="section-title">Oferta</h2>
+                        <div className="header-line"/>
                         <p className="lead text-center">
-                        Szanowni Państwo moja oferta polega na zaproponowaniu wspólnej pracy w celu polepszenia 
-                        swojego życia, życia rodziny, życia firmy lub szkoły. Nasze szczęście zależy od nas, 
+                        Szanowni Państwo - moja oferta polega na zaproponowaniu wspólnej pracy w celu 
+                        polepszenia swojego życia, życia  rodziny, życia firmy lub szkoły.
+                        Nasze szczęście zależy od nas, 
                         ale również od tych, którzy z nami wędrują przez ten świat. W społeczeństwie, które 
                         pędzi jak rakieta, gubimy często sens, tracimy z oczu zasady, gubimy swoje cele, nie 
                         potrafimy oprzeć się uzależnieniom. Co jakiś czas musimy zrobić porządek  w naszych 
                         działaniach, na nowo rozpalić zapał, poczuć swoje wnętrze, wzmocnić ducha i rozniecić
-                         ogień marzeń. Jeżeli z różnych przyczyn nie potraficie tego zrobić sami i potrzebujecie 
+                         ogień marzeń.
+                        </p> 
+                         <p className="lead text-center">
+                         Jeżeli z różnych przyczyn nie potraficie tego zrobić sami i potrzebujecie 
                          pomocy, konsultacji, swoistej superwizji,  zapraszam do współpracy.
                         </p>
 
@@ -25,10 +30,10 @@ const Offer = () => {
                         Jeżeli odczuwasz niepokój strach, nie potrafisz podjąć decyzji – zadzwoń, przyjdź!<br/>
                         Jeżeli nie radzisz sobie w rodzinie – zadzwoń, przyjdź!<br/>
                         Jeżeli zachowania twoje lub najbliższych są powodem kłótni i nieporozumień – zadzwoń, przyjdź! <br/>
-                        Jeżeli odczuwasz w sobie chęć zmiany w sobie, swojej firmie, nie wiesz dokładnie, co jest tego powodem – zadzwoń przyjdź!<br/>
-                        Jeżeli twoja kariera stoi w miejscu i nie masz z niej zadowolenia – zadzwoń, przyjdź!<br/>
+                        Jeżeli odczuwasz chęć zmiany siebie, swojej firmy lecz nie wiesz dokładnie, co jest tego powodem – zadzwoń przyjdź!<br/>
+                        Jeżeli twoja kariera stoi w miejscu i nie daje Ci satysfakcji – zadzwoń, przyjdź!<br/>
                         Jeżeli twoja organizacja się rozwija, zmienia  lub ma kłopoty, a ty nie wiesz, co w tej sytuacji zrobić – zadzwoń, przyjdź! <br/>
-                        Jeżeli nie doświadczasz żadnego z tych stanów a chcesz się spotkać zapraszam – zadzwoń, przyjdź!<br/>
+                        Jeżeli nie doświadczasz żadnego z tych stanów, a chcesz się spotkać - zapraszam – zadzwoń, przyjdź!<br/>
                         </p>
                     </div>
                 </div>
@@ -87,7 +92,9 @@ const Offer = () => {
                     <div className="col-lg-4">
                         <Box 
                             title="Warszty z wypoczynkiem" 
-                            description="Pobyt w ośrodku wypoczynkowym, zakwaterowanie, wyżywienie, szkolenia-treningi około 3 godziny dziennie rano lub po kolacji, organizacja czasu wolnego dla grupy szkoleniowej."
+                            description="Pobyt w ośrodku wypoczynkowym, zakwaterowanie, 
+                            wyżywienie, szkolenia-treningi (około 3 godziny dziennie rano 
+                            lub po kolacji), organizacja czasu wolnego dla grupy szkoleniowej."
                             icon="fa-umbrella-beach"
                         >
                         <p>Prowadząc wiele szkoleń często spotykam się ze stwierdzeniami, że nie ma czasu na wypoczynek, na prace nad sobą, na dbanie o swoje wnętrze nie mówiąc już o pracy nad umiejętnościami komunikacyjnymi. Stąd moja propozycja, aby połączyć wypoczynek z przygodą poznania samego siebie, swojego związku, z radosną pracą nad zrozumieniem swoich bliskich,  nad dialogiem bez ocen i konieczności zwyciężania za wszelka cenę. Są różne zdania  na temat takiego sposobu samorozwoju, nie jest to propozycja dla wszystkich. Lecz jeśli chcesz się wspaniale pobawić, zwiedzić bardzo ciekawe zabytki, zobaczyć przepiękne krajobrazy i zmienić coś w swoim życiu - zapraszam.</p>
@@ -140,8 +147,9 @@ const Offer = () => {
                     <div className="col-lg-4">
                         <Box 
                             title="Dla firm i instytucji" 
-                            description="Oferujemy Państwu konsulting, warsztaty stacjonarne oraz kompleksowe wyjazdy szkoleniowe, połączone z wypoczynkiem, 
-                            badania i analizy w oparciu o obserwacje i wywiady, tworzenie modeli komunikacji wewnętrznej i zewnętrznej"
+                            description="Oferujemy Państwu konsulting, warsztaty stacjonarne oraz kompleksowe wyjazdy 
+                            szkoleniowe połączone z wypoczynkiem, badania i analizy w oparciu o obserwacje i 
+                            wywiady, tworzenie modeli komunikacji wewnętrznej i zewnętrznej."
                             icon="fa-user-tie"
                         >
                             <p>Co ważniejsze firma czy ludzie? Jak zoptymalizować działania, aby szczęśliwy pracownik z radością szedł do pracy żegnając  uśmiechniętą rodziną? Jak oceniać innych i pozostać dalej ich przyjacielem? Powyższe pytania pokazują jak skomplikowana i trudna jest rola szefa w firmie. Firma to żywy organizm i trzeba o nią zadbać. Powinniśmy śmiało i bez wahania korzystać z misji firmy, a nie tylko ją recytować. Powinniśmy jako podmioty firmy wspólnie ustalać: kim jest pracownik, kim powinien być przełożony, jak wypracować skuteczne formy nagradzania, komunikowania. W pracy nad takim obrazem firmy, często potrzeby jest podmiot zewnętrzny. Moja firma proponuje Państwu pomoc w skutecznym rozwoju.</p>
