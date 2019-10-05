@@ -12,7 +12,7 @@ const Menu = () => (
         </Link>
         <Link activeclass="active" to="achievements" spy={true} smooth={true} tabIndex={0}
             duration={duration} offset={offset} className="nav-link">
-            Osiągnięcia
+            Aktywność
         </Link>
         <Link activeclass="active" to="oferta" spy={true} smooth={true} tabIndex={0}
             duration={duration} offset={offset} className="nav-link">
