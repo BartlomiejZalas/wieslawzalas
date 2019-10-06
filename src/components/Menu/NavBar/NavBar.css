@@ -44,8 +44,8 @@ nav a.nav-link {
     color: var(--secondary);
     padding: 8px;
     margin: 0 2px;
-    border-bottom: 3px solid #FFF;
     text-transform: uppercase;
+    border-radius: 3px;
 }
 
 nav a.nav-link.active, nav a.nav-link:hover, nav a.nav-link:active, nav a.nav-link:focus {
@@ -53,10 +53,8 @@ nav a.nav-link.active, nav a.nav-link:hover, nav a.nav-link:active, nav a.nav-li
 }
 
 nav a.nav-link.active, nav a.nav-link:hover {
-    /* border-bottom-color: var(--main); */
     background: var(--main);
     color: #FFF;
-
 }
 
 nav .mobile-menu {

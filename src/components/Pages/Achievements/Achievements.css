@@ -34,3 +34,9 @@ section.achievements .certificates-description {
     display: flex;
     align-items: center;
 }
+
+section.achievements .certificates {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

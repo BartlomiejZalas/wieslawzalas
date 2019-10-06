@@ -1,0 +1,23 @@
+.collapse-box {
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+.collapse-box-header {
+    cursor: pointer;
+}
+
+.collapse-box-hide {
+    max-height: 0;
+    transition: max-height 0.2s ease-in;
+    overflow: hidden;
+}
+
+.collapse-box-show {
+    max-height: 2000px;
+    transition: max-height 1s ease-in;
+}
+
+.collapse-box i {
+    color: #666;
+}
